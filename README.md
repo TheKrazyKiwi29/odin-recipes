@@ -46,7 +46,6 @@ This project is part of the [Foundations course](https://www.theodinproject.com/
 
 ### ✅ Future Improvements
 
-- Add images for each recipe
 - Include CSS styling for better visuals
 - Possibly expand to more recipes
 
